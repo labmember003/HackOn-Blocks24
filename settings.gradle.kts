@@ -19,6 +19,7 @@ dependencyResolutionManagement {
             url = uri("https://my.pspdfkit.com/maven/")
             url = uri("https://jcenter.bintray.com")
         }
+
     }
 }
 
